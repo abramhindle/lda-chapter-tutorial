@@ -1,0 +1,3189 @@
+{
+   "rows" : [
+      {
+         "doc" : {
+            "content" : "first commit",
+            "time" : "2013-10-25T19:19:00",
+            "comment" : "first commit",
+            "published" : "2013-10-25T19:19:00",
+            "title" : "",
+            "commiter" : "DrKLO <DrKLO@iMac-Nikolay.local>",
+            "author" : "DrKLO <DrKLO@iMac-Nikolay.local>",
+            "owner" : "DrKLO <DrKLO@iMac-Nikolay.local>",
+            "_id" : "4622ba9186020d01bfc20c6636f863c9e856f5ca"
+         }
+      },
+      {
+         "doc" : {
+            "commiter" : "Igor Zhukov <Igor.beatle@gmail.com>",
+            "author" : "Igor Zhukov <Igor.beatle@gmail.com>",
+            "owner" : "Igor Zhukov <Igor.beatle@gmail.com>",
+            "_id" : "bd54deea1fa3f32c29e2825065d560e6ac80313c",
+            "content" : "Added readme",
+            "time" : "2013-10-25T19:55:11",
+            "comment" : "Added readme",
+            "published" : "2013-10-25T19:55:11",
+            "title" : ""
+         }
+      },
+      {
+         "doc" : {
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "c824df619a0367105ca485dc8828f2a498e2d667",
+            "content" : "Merge pull request #1 from zhukov/patch-1\n\nAdded readme",
+            "time" : "2013-10-25T08:55:57",
+            "comment" : "Merge pull request #1 from zhukov/patch-1\n\nAdded readme",
+            "published" : "2013-10-25T08:55:57",
+            "title" : ""
+         }
+      },
+      {
+         "doc" : {
+            "_id" : "27b74b537eb74ecbe02c068a6e03940b2fa87334",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "published" : "2013-10-27T02:34:39",
+            "title" : "",
+            "comment" : "update to 2.3.6",
+            "content" : "update to 2.3.6",
+            "time" : "2013-10-27T02:34:39"
+         }
+      },
+      {
+         "doc" : {
+            "time" : "2013-11-04T16:31:01",
+            "content" : "update to 1.2.7",
+            "published" : "2013-11-04T16:31:01",
+            "title" : "",
+            "comment" : "update to 1.2.7",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "90d8e8a370fba504eadf40f410781c6f4085967b",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "owner" : "DrKLO <DrKLO@iMac-Nikolay.local>",
+            "_id" : "d52ade4855d3e939daa815c766bab427a22ada61",
+            "commiter" : "DrKLO <DrKLO@iMac-Nikolay.local>",
+            "author" : "DrKLO <DrKLO@iMac-Nikolay.local>",
+            "comment" : "update to 1.3.2",
+            "published" : "2013-12-20T23:25:49",
+            "title" : "",
+            "content" : "update to 1.3.2",
+            "time" : "2013-12-20T23:25:49"
+         }
+      },
+      {
+         "doc" : {
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "5aee72ee33fd960df9173ab17942dd1a2ce912b5",
+            "time" : "2013-12-22T16:12:41",
+            "content" : "Fixed issue with secret chats",
+            "comment" : "Fixed issue with secret chats",
+            "published" : "2013-12-22T16:12:41",
+            "title" : ""
+         }
+      },
+      {
+         "doc" : {
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "02c8efb0df36a50185a36a03c1af862a9f130392",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "comment" : "update to 1.3.4",
+            "title" : "",
+            "published" : "2013-12-23T03:47:35",
+            "content" : "update to 1.3.4",
+            "time" : "2013-12-23T03:47:35"
+         }
+      },
+      {
+         "doc" : {
+            "content" : "update to 1.3.5",
+            "time" : "2013-12-23T15:05:57",
+            "comment" : "update to 1.3.5",
+            "title" : "",
+            "published" : "2013-12-23T15:05:57",
+            "commiter" : "DrKLO <DrKLO@iMac-Nikolay.local>",
+            "author" : "DrKLO <DrKLO@iMac-Nikolay.local>",
+            "owner" : "DrKLO <DrKLO@iMac-Nikolay.local>",
+            "_id" : "50a92dc44a7e6f85d55bccede4607394ccd5b378"
+         }
+      },
+      {
+         "doc" : {
+            "commiter" : "DrKLO <DrKLO@iMac-Nikolay.local>",
+            "author" : "DrKLO <DrKLO@iMac-Nikolay.local>",
+            "_id" : "d2a6fa4d6d02cc1acff27d3284845bf8a18b72dd",
+            "owner" : "DrKLO <DrKLO@iMac-Nikolay.local>",
+            "time" : "2013-12-23T15:54:31",
+            "content" : "fixed last commit",
+            "title" : "",
+            "published" : "2013-12-23T15:54:31",
+            "comment" : "fixed last commit"
+         }
+      },
+      {
+         "doc" : {
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "4f9384afee0cf8e3e6c981f3242534f8d3e932e8",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "time" : "2013-12-25T00:38:40",
+            "content" : "download map preview via https",
+            "published" : "2013-12-25T00:38:40",
+            "title" : "",
+            "comment" : "download map preview via https"
+         }
+      },
+      {
+         "doc" : {
+            "comment" : "more security checks",
+            "published" : "2013-12-25T02:25:13",
+            "title" : "",
+            "time" : "2013-12-25T02:25:13",
+            "content" : "more security checks",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "a65f5f9feefae2d9a2907243c9f9c6f36351a17d",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "published" : "2013-12-26T15:43:37",
+            "title" : "",
+            "comment" : "update to 1.3.6",
+            "time" : "2013-12-26T15:43:37",
+            "content" : "update to 1.3.6",
+            "_id" : "51add404effb8952ae285fe1cdb19faef6dc8c16",
+            "owner" : "DrKLO <DrKLO@iMac-Nikolay.local>",
+            "commiter" : "DrKLO <DrKLO@iMac-Nikolay.local>",
+            "author" : "DrKLO <DrKLO@iMac-Nikolay.local>"
+         }
+      },
+      {
+         "doc" : {
+            "comment" : "update to 1.3.7",
+            "title" : "",
+            "published" : "2013-12-26T20:46:13",
+            "content" : "update to 1.3.7",
+            "time" : "2013-12-26T20:46:13",
+            "owner" : "DrKLO <DrKLO@iMac-Nikolay.local>",
+            "_id" : "9d2dfd33eed31446632eac95119290e9c2d79d06",
+            "author" : "DrKLO <DrKLO@iMac-Nikolay.local>",
+            "commiter" : "DrKLO <DrKLO@iMac-Nikolay.local>"
+         }
+      },
+      {
+         "doc" : {
+            "content" : "delete unused code",
+            "time" : "2013-12-27T12:30:04",
+            "comment" : "delete unused code",
+            "title" : "",
+            "published" : "2013-12-27T12:30:04",
+            "commiter" : "Dacainiao <chijiabao@gmail.com>",
+            "author" : "Dacainiao <chijiabao@gmail.com>",
+            "owner" : "Dacainiao <chijiabao@gmail.com>",
+            "_id" : "6a37e3b109d85f4323406e02e9a65a8491d3bc28"
+         }
+      },
+      {
+         "doc" : {
+            "commiter" : "Dacainiao <chijiabao@gmail.com>",
+            "author" : "Dacainiao <chijiabao@gmail.com>",
+            "_id" : "38d3b3671ccb026714b98ac10a67af3905f1a029",
+            "owner" : "Dacainiao <chijiabao@gmail.com>",
+            "content" : "remove unused code",
+            "time" : "2013-12-27T15:35:25",
+            "published" : "2013-12-27T15:35:25",
+            "title" : "",
+            "comment" : "remove unused code"
+         }
+      },
+      {
+         "doc" : {
+            "time" : "2013-12-27T03:33:37",
+            "content" : "Merge pull request #11 from Dacainiao/master\n\nremove unused code",
+            "comment" : "Merge pull request #11 from Dacainiao/master\n\nremove unused code",
+            "published" : "2013-12-27T03:33:37",
+            "title" : "",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "404b2c1a40cc3f335d8554d80b224908a7ecd640"
+         }
+      },
+      {
+         "doc" : {
+            "commiter" : "Yuri Orlov <yuri.n.orlov@gmail.com>",
+            "author" : "Yuri Orlov <yuri.n.orlov@gmail.com>",
+            "owner" : "Yuri Orlov <yuri.n.orlov@gmail.com>",
+            "_id" : "48957212c21536d50844209ba9da412cadff6e6a",
+            "content" : "add and config .gitignore",
+            "time" : "2014-01-04T03:45:33",
+            "comment" : "add and config .gitignore",
+            "published" : "2014-01-04T03:45:33",
+            "title" : ""
+         }
+      },
+      {
+         "doc" : {
+            "_id" : "1a4d0786ec1e28507e35c544094a7c463ec7ef09",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "published" : "2014-01-24T08:58:14",
+            "title" : "",
+            "comment" : "Merge pull request #14 from yorlov/ignore\n\nadd and config .gitignore",
+            "time" : "2014-01-24T08:58:14",
+            "content" : "Merge pull request #14 from yorlov/ignore\n\nadd and config .gitignore"
+         }
+      },
+      {
+         "doc" : {
+            "content" : "update to 1.3.19\n\nSpanish localization by Borja Campina\nApplied pull request by Yuri Orlov\n(https://github.com/DrKLO/Telegram/pull/27)",
+            "time" : "2014-02-04T22:36:55",
+            "published" : "2014-02-04T22:36:55",
+            "title" : "",
+            "comment" : "update to 1.3.19\n\nSpanish localization by Borja Campina\nApplied pull request by Yuri Orlov\n(https://github.com/DrKLO/Telegram/pull/27)",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "9814a6e927fa087794ec8b6776ea63e3877772c7",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "507d05aaf1855320bc09863264f457756593d476",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "time" : "2014-02-11T18:32:09",
+            "content" : "update to 1.3.21\n\nAbility to delete add rename contacts, proper handling of new contacts\nin phone book\nNew photo crop\nAbility to disable automatic photo download\nAbility to disable notifications about new registered contacts\nUpdated Spanish localization\nBug fixes",
+            "published" : "2014-02-11T18:32:09",
+            "title" : "",
+            "comment" : "update to 1.3.21\n\nAbility to delete add rename contacts, proper handling of new contacts\nin phone book\nNew photo crop\nAbility to disable automatic photo download\nAbility to disable notifications about new registered contacts\nUpdated Spanish localization\nBug fixes"
+         }
+      },
+      {
+         "doc" : {
+            "published" : "2014-02-11T18:44:02",
+            "title" : "",
+            "comment" : "Fixed datacenter port switch condition",
+            "time" : "2014-02-11T18:44:02",
+            "content" : "Fixed datacenter port switch condition",
+            "_id" : "ff85d74b85bf33aa661e34b6a9e2bf037924fe0f",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "9aeb8be8938e6083376142a782166a15edf46743",
+            "content" : "Delete ConnectionsManager2.java\n\nSorry, it shouldn't be there.",
+            "time" : "2014-02-24T13:36:05",
+            "comment" : "Delete ConnectionsManager2.java\n\nSorry, it shouldn't be there.",
+            "published" : "2014-02-24T13:36:05",
+            "title" : ""
+         }
+      },
+      {
+         "doc" : {
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "a21494ade639e2e270b448ec6c5325b4be0ec7c5",
+            "time" : "2014-03-01T02:28:25",
+            "content" : "Update to 1.3.26\n\nApplied patch from https://github.com/DrKLO/Telegram/pull/99 . Thanks.\nAdded German localization. Thanks to all from\nhttps://github.com/DrKLO/Telegram/pull/129\nExperimental audio (will not go to market yet, we will switch to opus\ncodec)\nImproved text drawing perfomance (now Telegram can draw even \u00c2\u00abWar and\nPeace\u00c2\u00bb in one message)\nAbility to send multiple photos and documents from external apps\nContacts fixes\nMemory usage optimizations in network code (receiving data)\nPartly switched to native ByteBuffers (decoding received data)\nAdded support of Telegram API Layer 12\nBug fixes",
+            "comment" : "Update to 1.3.26\n\nApplied patch from https://github.com/DrKLO/Telegram/pull/99 . Thanks.\nAdded German localization. Thanks to all from\nhttps://github.com/DrKLO/Telegram/pull/129\nExperimental audio (will not go to market yet, we will switch to opus\ncodec)\nImproved text drawing perfomance (now Telegram can draw even \u00c2\u00abWar and\nPeace\u00c2\u00bb in one message)\nAbility to send multiple photos and documents from external apps\nContacts fixes\nMemory usage optimizations in network code (receiving data)\nPartly switched to native ByteBuffers (decoding received data)\nAdded support of Telegram API Layer 12\nBug fixes",
+            "published" : "2014-03-01T02:28:25",
+            "title" : ""
+         }
+      },
+      {
+         "doc" : {
+            "published" : "2014-03-01T15:01:48",
+            "title" : "",
+            "comment" : "Fixed wrong German localization file",
+            "content" : "Fixed wrong German localization file",
+            "time" : "2014-03-01T15:01:48",
+            "_id" : "aa5ff577c48668c5ada2d5dbd778feeb875bf8e9",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "published" : "2014-03-02T13:23:06",
+            "title" : "",
+            "comment" : "Fixed RTL name position in messages",
+            "content" : "Fixed RTL name position in messages",
+            "time" : "2014-03-02T13:23:06",
+            "_id" : "ea8f92441c58ed6b3deaa9ef1b9a2500543b1ef8",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "published" : "2014-03-02T12:42:50",
+            "title" : "",
+            "comment" : "Enable SQLite secure_delete pragma.",
+            "content" : "Enable SQLite secure_delete pragma.",
+            "time" : "2014-03-02T12:42:50",
+            "_id" : "9f63be65bc28234950ccd7615bf16e00a860b0e6",
+            "owner" : "Sergio Lopez <slp@sinrega.org>",
+            "commiter" : "Sergio Lopez <slp@sinrega.org>",
+            "author" : "Sergio Lopez <slp@sinrega.org>"
+         }
+      },
+      {
+         "doc" : {
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "3316f25e35a288a927c116b7e0f94d4cc1a076d5",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "content" : "Merge pull request #247 from slp/sql-secure_delete\n\nEnable SQLite secure_delete pragma.",
+            "time" : "2014-03-03T23:07:51",
+            "published" : "2014-03-03T23:07:51",
+            "title" : "",
+            "comment" : "Merge pull request #247 from slp/sql-secure_delete\n\nEnable SQLite secure_delete pragma."
+         }
+      },
+      {
+         "doc" : {
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "6e63dee546704a721f3ee106b53c25b48709a9e3",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "comment" : "Fixed incorrect messages drawing",
+            "title" : "",
+            "published" : "2014-03-04T10:23:08",
+            "time" : "2014-03-04T10:23:08",
+            "content" : "Fixed incorrect messages drawing"
+         }
+      },
+      {
+         "doc" : {
+            "published" : "2014-03-04T23:29:32",
+            "title" : "",
+            "comment" : "Update to 1.3.26 (181)\n\nThanks to:\nhttps://github.com/DrKLO/Telegram/pull/218\nhttps://github.com/DrKLO/Telegram/pull/267",
+            "time" : "2014-03-04T23:29:32",
+            "content" : "Update to 1.3.26 (181)\n\nThanks to:\nhttps://github.com/DrKLO/Telegram/pull/218\nhttps://github.com/DrKLO/Telegram/pull/267",
+            "_id" : "ba726700a1f888e24f0efd610e44db86b21281e2",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "2518d0e91f65e8e442575787c1cc6ad54288f290",
+            "content" : "Rename ApplicationActivity -> LaunchActivity\n\nDon\u00e2\u0080\u0099t want to lose app shortcut (who knew about it)",
+            "time" : "2014-03-05T00:04:57",
+            "comment" : "Rename ApplicationActivity -> LaunchActivity\n\nDon\u00e2\u0080\u0099t want to lose app shortcut (who knew about it)",
+            "published" : "2014-03-05T00:04:57",
+            "title" : ""
+         }
+      },
+      {
+         "doc" : {
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "ddd022ef6f6db0c02923b9efef38ab68b5e643bc",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "comment" : "Update to 1.3.26 (184)\n\nhttps://github.com/DrKLO/Telegram/pull/216\nBug fixes",
+            "published" : "2014-03-05T20:42:10",
+            "title" : "",
+            "content" : "Update to 1.3.26 (184)\n\nhttps://github.com/DrKLO/Telegram/pull/216\nBug fixes",
+            "time" : "2014-03-05T20:42:10"
+         }
+      },
+      {
+         "doc" : {
+            "published" : "2014-03-06T00:18:25",
+            "title" : "",
+            "comment" : "Fixed blurry images in secret chats on some devices",
+            "time" : "2014-03-06T00:18:25",
+            "content" : "Fixed blurry images in secret chats on some devices",
+            "_id" : "8ecb9e97c92d607af78850cd2d9685ab24b38100",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "published" : "2014-03-10T13:27:49",
+            "title" : "",
+            "comment" : "Update to 1.3.30",
+            "time" : "2014-03-10T13:27:49",
+            "content" : "Update to 1.3.30",
+            "_id" : "01103c6e94a827f1aca4050581f84051b054f7bc",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "time" : "2014-03-10T22:04:48",
+            "content" : "Fixed 1.3.30 compilation",
+            "published" : "2014-03-10T22:04:48",
+            "title" : "",
+            "comment" : "Fixed 1.3.30 compilation",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "dc00cb3c212209b430856a7b7f2469ddda50ed48",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "comment" : "Update README.md",
+            "published" : "2014-03-13T18:21:38",
+            "title" : "",
+            "content" : "Update README.md",
+            "time" : "2014-03-13T18:21:38",
+            "owner" : "ruival <brunoruival@gmail.com>",
+            "_id" : "110dc6fe5de098a52edc31284db82b73bb054002",
+            "author" : "ruival <brunoruival@gmail.com>",
+            "commiter" : "ruival <brunoruival@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "_id" : "d3e2ae18e8a2532ecba84ddd58ea998b67d023f2",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "published" : "2014-03-14T12:57:27",
+            "title" : "",
+            "comment" : "Merge pull request #308 from ruival/patch-1\n\nUpdate README.md refering transifex localization platform",
+            "time" : "2014-03-14T12:57:27",
+            "content" : "Merge pull request #308 from ruival/patch-1\n\nUpdate README.md refering transifex localization platform"
+         }
+      },
+      {
+         "doc" : {
+            "comment" : "Update to 1.4.6\n\nAudio notes (opus codec)\nA lot of different improvements and bug fixes\n\nThanks to:\nhttps://github.com/DrKLO/Telegram/issues/293\nhttps://github.com/DrKLO/Telegram/issues/256\n\nFOSS configuration not ready yet\n\nI will move main dev branch to github in next couple commits",
+            "title" : "",
+            "published" : "2014-03-23T02:31:55",
+            "content" : "Update to 1.4.6\n\nAudio notes (opus codec)\nA lot of different improvements and bug fixes\n\nThanks to:\nhttps://github.com/DrKLO/Telegram/issues/293\nhttps://github.com/DrKLO/Telegram/issues/256\n\nFOSS configuration not ready yet\n\nI will move main dev branch to github in next couple commits",
+            "time" : "2014-03-23T02:31:55",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "4ede31105599d0af566f4143c85b35767f98b59f",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "5141fc1cb2bc16ef81cc80414efe0687c6568538",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "content" : "Preparation to move dev branch to github\n\nyep, it's finally here",
+            "time" : "2014-03-23T03:20:13",
+            "published" : "2014-03-23T03:20:13",
+            "title" : "",
+            "comment" : "Preparation to move dev branch to github\n\nyep, it's finally here"
+         }
+      },
+      {
+         "doc" : {
+            "comment" : "one more gitignore",
+            "published" : "2014-03-23T03:29:02",
+            "title" : "",
+            "content" : "one more gitignore",
+            "time" : "2014-03-23T03:29:02",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "433f59c5b9ed17543d8e206c83f0bc7c7edb43a6",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "content" : "remove main thread block before recording audio",
+            "time" : "2014-03-23T04:09:24",
+            "title" : "",
+            "published" : "2014-03-23T04:09:24",
+            "comment" : "remove main thread block before recording audio",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "e53824306292f69f2fc354faa92a6d02c78868fa",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "6be743c9c29402fc1438bac6a587fe021b9bfe8a",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "content" : "fixed previous commit",
+            "time" : "2014-03-23T04:24:19",
+            "published" : "2014-03-23T04:24:19",
+            "title" : "",
+            "comment" : "fixed previous commit"
+         }
+      },
+      {
+         "doc" : {
+            "time" : "2014-03-23T16:12:13",
+            "content" : "update to 1.4.7\n\nPebble notifications (thanks to\nhttps://github.com/DrKLO/Telegram/pull/318)\nFixed native lib load on android 4.0",
+            "title" : "",
+            "published" : "2014-03-23T16:12:13",
+            "comment" : "update to 1.4.7\n\nPebble notifications (thanks to\nhttps://github.com/DrKLO/Telegram/pull/318)\nFixed native lib load on android 4.0",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "4b6fb69f309dc24714d0b0d025c047c5d6e4e2cf",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "e7e0e67d51de76472a4100f293ec2b0d8bc83ed4",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "comment" : "Merge branch 'dev'",
+            "published" : "2014-03-23T16:12:45",
+            "title" : "",
+            "content" : "Merge branch 'dev'",
+            "time" : "2014-03-23T16:12:45"
+         }
+      },
+      {
+         "doc" : {
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "c125097b9ce42e23816efbe51963366ec253b157",
+            "content" : "Fixed previous commit",
+            "time" : "2014-03-23T16:22:04",
+            "comment" : "Fixed previous commit",
+            "published" : "2014-03-23T16:22:04",
+            "title" : ""
+         }
+      },
+      {
+         "doc" : {
+            "content" : "Merge branch 'dev'",
+            "time" : "2014-03-23T16:24:04",
+            "comment" : "Merge branch 'dev'",
+            "published" : "2014-03-23T16:24:04",
+            "title" : "",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "d4703e32b0278903b8317a902fc126eff06ab911"
+         }
+      },
+      {
+         "doc" : {
+            "published" : "2014-03-24T00:01:07",
+            "title" : "",
+            "comment" : "Revert italian localization to previous release, add some new strings",
+            "time" : "2014-03-24T00:01:07",
+            "content" : "Revert italian localization to previous release, add some new strings",
+            "_id" : "d8c2966efc20483786124256c0decfe2682c26d2",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "time" : "2014-03-24T00:03:38",
+            "content" : "Check if native lib loaded before opening db",
+            "title" : "",
+            "published" : "2014-03-24T00:03:38",
+            "comment" : "Check if native lib loaded before opening db",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "585ba77ea7a6534dbb01333483dc0e9c45b03675",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "content" : "Update group chat creation interface",
+            "time" : "2014-03-25T01:10:35",
+            "published" : "2014-03-25T01:10:35",
+            "title" : "",
+            "comment" : "Update group chat creation interface",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "9523311674d919efbaab278f2b2670e7bda15fb8",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "comment" : "Ability to set language in settings",
+            "title" : "",
+            "published" : "2014-03-25T04:25:32",
+            "time" : "2014-03-25T04:25:32",
+            "content" : "Ability to set language in settings",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "0f53d75a807ea3cbc466ddd9083ceb9ed50ad1a6",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "8351b066ac66ff1a0f30c5884e3374e05cfe3b13",
+            "time" : "2014-03-25T14:58:47",
+            "content" : "Addition to previous commit",
+            "comment" : "Addition to previous commit",
+            "published" : "2014-03-25T14:58:47",
+            "title" : ""
+         }
+      },
+      {
+         "doc" : {
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "d4854101923a68d0f25d875adc8f9490dde42389",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "content" : "Merge branch 'dev'",
+            "time" : "2014-03-25T14:59:40",
+            "published" : "2014-03-25T14:59:40",
+            "title" : "",
+            "comment" : "Merge branch 'dev'"
+         }
+      },
+      {
+         "doc" : {
+            "content" : "Icon for group chats in messages list\n\n(DEBUG) Option in settings to switch to test datacenters\nUpdate some images",
+            "time" : "2014-03-26T03:38:23",
+            "published" : "2014-03-26T03:38:23",
+            "title" : "",
+            "comment" : "Icon for group chats in messages list\n\n(DEBUG) Option in settings to switch to test datacenters\nUpdate some images",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "1eeb12f666c2bd88755023b59c1925879e1b903d",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "fc8f91a3b7ef1bc44a258995a1ff16e6dff66f54",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "time" : "2014-03-26T03:39:51",
+            "content" : "Merge branch 'master' into dev",
+            "title" : "",
+            "published" : "2014-03-26T03:39:51",
+            "comment" : "Merge branch 'master' into dev"
+         }
+      },
+      {
+         "doc" : {
+            "_id" : "0e9d92e8f9bb227e2cad8d01c64d06255de936fe",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "published" : "2014-03-26T16:24:54",
+            "title" : "",
+            "comment" : "Fixed possible crashes",
+            "content" : "Fixed possible crashes",
+            "time" : "2014-03-26T16:24:54"
+         }
+      },
+      {
+         "doc" : {
+            "_id" : "22918f143a5d54cc56282575246e686d3baac3db",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "title" : "",
+            "published" : "2014-03-27T00:16:28",
+            "comment" : "Fixed photo sharing on devices with low memory",
+            "content" : "Fixed photo sharing on devices with low memory",
+            "time" : "2014-03-27T00:16:28"
+         }
+      },
+      {
+         "doc" : {
+            "content" : "Add giflib and GifDrawable",
+            "time" : "2014-03-27T18:25:53",
+            "published" : "2014-03-27T18:25:53",
+            "title" : "",
+            "comment" : "Add giflib and GifDrawable",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "5323e87ba379d25ee4c232f1e0011eb5d03adbaa",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "ebe7ab78a3cbd8e12461914a6313241308157670",
+            "time" : "2014-03-31T18:14:49",
+            "content" : "Gif support, applying localization files from document messages",
+            "comment" : "Gif support, applying localization files from document messages",
+            "title" : "",
+            "published" : "2014-03-31T18:14:49"
+         }
+      },
+      {
+         "doc" : {
+            "published" : "2014-04-01T05:00:35",
+            "title" : "",
+            "comment" : "restore photo attach long press, bug fixes",
+            "content" : "restore photo attach long press, bug fixes",
+            "time" : "2014-04-01T05:00:35",
+            "_id" : "bd4152dc814925e0c82d11d6ac577c83156a1857",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "comment" : "Save localization files applyed from document, fixed forwarded name position in group chats, added links to telegram FAQ and support alert message, move all menus creation to code for localization purposes",
+            "published" : "2014-04-02T21:36:57",
+            "title" : "",
+            "content" : "Save localization files applyed from document, fixed forwarded name position in group chats, added links to telegram FAQ and support alert message, move all menus creation to code for localization purposes",
+            "time" : "2014-04-02T21:36:57",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "ebedf3c367639d43e6d1c63e2529d4d47ff59468",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "51aa4141a41a811e87b829f587753f0b20158a9b",
+            "content" : "Bug fixes",
+            "time" : "2014-04-03T14:23:39",
+            "comment" : "Bug fixes",
+            "published" : "2014-04-03T14:23:39",
+            "title" : ""
+         }
+      },
+      {
+         "doc" : {
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "419969f721b44ce16e2e28b26e5ea03eaa166c54",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "comment" : "Merge branch 'dev'",
+            "published" : "2014-04-03T15:04:00",
+            "title" : "",
+            "time" : "2014-04-03T15:04:00",
+            "content" : "Merge branch 'dev'"
+         }
+      },
+      {
+         "doc" : {
+            "title" : "",
+            "published" : "2014-04-04T01:18:54",
+            "comment" : "Optimize files upload, gif auto play after download, crash and bug fixes",
+            "time" : "2014-04-04T01:18:54",
+            "content" : "Optimize files upload, gif auto play after download, crash and bug fixes",
+            "_id" : "ec533c5fff68ed8649c7f02cfbbd05c50f62c14b",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "title" : "",
+            "published" : "2014-04-04T01:56:42",
+            "comment" : "Fixed sharing gif files from gallery",
+            "content" : "Fixed sharing gif files from gallery",
+            "time" : "2014-04-04T01:56:42",
+            "_id" : "05471c43951383964dae87f07546dbd656c69819",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "time" : "2014-04-04T03:22:09",
+            "content" : "Fixed files uploading in secret chats, allow move application to sd card(not tested)",
+            "comment" : "Fixed files uploading in secret chats, allow move application to sd card(not tested)",
+            "published" : "2014-04-04T03:22:09",
+            "title" : "",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "cea585cd39c934bfd4b4f55f882b345b8bd4f525"
+         }
+      },
+      {
+         "doc" : {
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "0b01da670a004f6cd26ddbd59165ee66022ed5a1",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "time" : "2014-04-04T21:58:33",
+            "content" : "Attempt to detect screenshots(not perfect now, disabled)",
+            "published" : "2014-04-04T21:58:33",
+            "title" : "",
+            "comment" : "Attempt to detect screenshots(not perfect now, disabled)"
+         }
+      },
+      {
+         "doc" : {
+            "comment" : "fixed forwarded messages name position, fixed login activity state restore",
+            "title" : "",
+            "published" : "2014-04-04T23:35:35",
+            "content" : "fixed forwarded messages name position, fixed login activity state restore",
+            "time" : "2014-04-04T23:35:35",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "afeb66b18c8df702f97102e83a5e1a09f108577d",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "published" : "2014-04-05T00:18:46",
+            "title" : "",
+            "comment" : "partly revert last commit, fixed infinite updating",
+            "time" : "2014-04-05T00:18:46",
+            "content" : "partly revert last commit, fixed infinite updating",
+            "_id" : "c783e25d6968bc137cdef6ba444846e26b6c2dd4",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "comment" : "restore login activity even if app was killed",
+            "title" : "",
+            "published" : "2014-04-05T03:00:38",
+            "content" : "restore login activity even if app was killed",
+            "time" : "2014-04-05T03:00:38",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "e8b3375df04813eaac6f2bb6e512def163ccba10",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "d0a686fccbd0ff8745e454029b87e6e01f7084e8",
+            "time" : "2014-04-05T04:00:47",
+            "content" : "Added some additional checks",
+            "comment" : "Added some additional checks",
+            "published" : "2014-04-05T04:00:47",
+            "title" : ""
+         }
+      },
+      {
+         "doc" : {
+            "content" : "Fixed lock position in secret chat placeholder for long strings",
+            "time" : "2014-04-05T04:38:10",
+            "comment" : "Fixed lock position in secret chat placeholder for long strings",
+            "published" : "2014-04-05T04:38:10",
+            "title" : "",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "1321d9d6d659db36880f14532603902ff24a339a"
+         }
+      },
+      {
+         "doc" : {
+            "published" : "2014-04-05T04:39:06",
+            "title" : "",
+            "comment" : "fixed previous commit",
+            "time" : "2014-04-05T04:39:06",
+            "content" : "fixed previous commit",
+            "_id" : "0aea8f1532f8510c09062e3d841976496764f04f",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "2f191225b7cdf2cc9a23a179e91f563314272c02",
+            "time" : "2014-04-05T09:55:51",
+            "content" : "Fixed null pointer exceptions",
+            "comment" : "Fixed null pointer exceptions",
+            "title" : "",
+            "published" : "2014-04-05T09:55:51"
+         }
+      },
+      {
+         "doc" : {
+            "_id" : "c4e113dc67d5cffb982f3eeb9bc8b7aa5e5271cc",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "published" : "2014-04-05T17:27:42",
+            "title" : "",
+            "comment" : "Fixed native library checking, fixed preview sending for gif documents",
+            "time" : "2014-04-05T17:27:42",
+            "content" : "Fixed native library checking, fixed preview sending for gif documents"
+         }
+      },
+      {
+         "doc" : {
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "4beb03dd560f81bd4ef0642bdab3d9296c796154",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "comment" : "Fixed sharing gif files from picasa and G+ albums",
+            "published" : "2014-04-05T21:11:44",
+            "title" : "",
+            "time" : "2014-04-05T21:11:44",
+            "content" : "Fixed sharing gif files from picasa and G+ albums"
+         }
+      },
+      {
+         "doc" : {
+            "comment" : "Improved notifications settings, 3x emoji, libjpeg, code refactoring, bug fixes\n\nhttps://github.com/DrKLO/Telegram/pull/418",
+            "published" : "2014-05-17T03:05:49",
+            "title" : "",
+            "content" : "Improved notifications settings, 3x emoji, libjpeg, code refactoring, bug fixes\n\nhttps://github.com/DrKLO/Telegram/pull/418",
+            "time" : "2014-05-17T03:05:49",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "5ebe60a00de3047d6f745094b06cce67d2d5a127",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "time" : "2014-05-17T03:32:05",
+            "content" : "Hide emoji popup by pressing text message area, fixed that some links were untouchable\n\nhttps://github.com/DrKLO/Telegram/pull/272\nhttps://github.com/DrKLO/Telegram/issues/392",
+            "comment" : "Hide emoji popup by pressing text message area, fixed that some links were untouchable\n\nhttps://github.com/DrKLO/Telegram/pull/272\nhttps://github.com/DrKLO/Telegram/issues/392",
+            "published" : "2014-05-17T03:32:05",
+            "title" : "",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "0065ca64f5b020ac4644f0a5b3854c5c60ed3ea5"
+         }
+      },
+      {
+         "doc" : {
+            "time" : "2014-05-17T12:51:36",
+            "content" : "Added sdk version check for executeOnExecutor",
+            "comment" : "Added sdk version check for executeOnExecutor",
+            "published" : "2014-05-17T12:51:36",
+            "title" : "",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "8a8940871f745278d65bda51b4eb02d043f4d5da"
+         }
+      },
+      {
+         "doc" : {
+            "content" : "Added missing emoji",
+            "time" : "2014-05-18T15:46:02",
+            "published" : "2014-05-18T15:46:02",
+            "title" : "",
+            "comment" : "Added missing emoji",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "e3594f37d8120c3acb9bfb13c77ddd5377c3e097",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "published" : "2014-05-19T01:44:30",
+            "title" : "",
+            "comment" : "fixed untouchable links",
+            "content" : "fixed untouchable links",
+            "time" : "2014-05-19T01:44:30",
+            "_id" : "ee38ecec5696d60b0326e778e9772784f03137cd",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "_id" : "f68ace0fd66d81ad5885139a56cea8e4dac9ee68",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "published" : "2014-05-21T00:22:44",
+            "title" : "",
+            "comment" : "Start app on system launch, NotificationsService that will keep app running in background, special connection to receive update only about new messages, option to disable NotificationsService",
+            "content" : "Start app on system launch, NotificationsService that will keep app running in background, special connection to receive update only about new messages, option to disable NotificationsService",
+            "time" : "2014-05-21T00:22:44"
+         }
+      },
+      {
+         "doc" : {
+            "content" : "Optimized battery consumption, fixed blurry photos on some devices, added option to auto download media only via WiFi, changed way of contacts changes monitoring\n\nhttps://github.com/DrKLO/Telegram/pull/422\nhttps://github.com/rubenlagus/Telegram/commit/d96ce3c140bd49c5c8c63cea2b\nc9afad8a16b8bb",
+            "time" : "2014-05-25T02:47:05",
+            "published" : "2014-05-25T02:47:05",
+            "title" : "",
+            "comment" : "Optimized battery consumption, fixed blurry photos on some devices, added option to auto download media only via WiFi, changed way of contacts changes monitoring\n\nhttps://github.com/DrKLO/Telegram/pull/422\nhttps://github.com/rubenlagus/Telegram/commit/d96ce3c140bd49c5c8c63cea2b\nc9afad8a16b8bb",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "644fc7ccea9deee3686dc9c824893baa4ce4bef6",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "published" : "2014-06-04T03:31:48",
+            "title" : "",
+            "comment" : "Implemented own ActionBar and Fragments, swipe back navigation, https://github.com/DrKLO/Telegram/issues/424",
+            "content" : "Implemented own ActionBar and Fragments, swipe back navigation, https://github.com/DrKLO/Telegram/issues/424",
+            "time" : "2014-06-04T03:31:48",
+            "_id" : "3fecce964594ebc32af5bdd98f170ffceb0df0fa",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "e657c4f01066790192a471002466190278bc91f2",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "time" : "2014-06-04T03:57:30",
+            "content" : "Previous commit fixes",
+            "published" : "2014-06-04T03:57:30",
+            "title" : "",
+            "comment" : "Previous commit fixes"
+         }
+      },
+      {
+         "doc" : {
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "c1896e97c3c61128665c44cfbd73bc9ed6c9df51",
+            "content" : "removed one more ActionBarActivity",
+            "time" : "2014-06-04T04:24:06",
+            "comment" : "removed one more ActionBarActivity",
+            "published" : "2014-06-04T04:24:06",
+            "title" : ""
+         }
+      },
+      {
+         "doc" : {
+            "comment" : "Fixed app startup on Android 2.x, crash fixes",
+            "published" : "2014-06-04T20:00:42",
+            "title" : "",
+            "time" : "2014-06-04T20:00:42",
+            "content" : "Fixed app startup on Android 2.x, crash fixes",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "2c61da0001b57fe7a39229021123a1fe82e3e4b4",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "_id" : "231999ed1073cd9e53fc4d7b8f6c0d1da0882487",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "published" : "2014-06-04T20:02:46",
+            "title" : "",
+            "comment" : "One more crash fix",
+            "time" : "2014-06-04T20:02:46",
+            "content" : "One more crash fix"
+         }
+      },
+      {
+         "doc" : {
+            "published" : "2014-06-04T22:57:11",
+            "title" : "",
+            "comment" : "Let swipe back from any place",
+            "content" : "Let swipe back from any place",
+            "time" : "2014-06-04T22:57:11",
+            "_id" : "63ba8a5ac1de99f948b19c5cd756e7643c4a44cd",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "published" : "2014-06-04T23:27:43",
+            "title" : "",
+            "comment" : "Ask confirmation when starting secret chat and sharing contact info\n\nThanks to https://github.com/DrKLO/Telegram/pull/401",
+            "content" : "Ask confirmation when starting secret chat and sharing contact info\n\nThanks to https://github.com/DrKLO/Telegram/pull/401",
+            "time" : "2014-06-04T23:27:43",
+            "_id" : "cdb39ac30fe03ea8740573664ba155d27bab7914",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "time" : "2014-06-07T03:35:21",
+            "content" : "Improved back swipe, new photo viewer(not finished, disabed) bug fixes",
+            "comment" : "Improved back swipe, new photo viewer(not finished, disabed) bug fixes",
+            "published" : "2014-06-07T03:35:21",
+            "title" : "",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "92e1b0503b378251acb3c2a6d76b473e082abafc"
+         }
+      },
+      {
+         "doc" : {
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "0c49c20656fdeca6a98fca1bb1ca2c063701dec6",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "content" : "New photo viewer(close by swipe down, not tested on 2.x), optimize emoji load, fixed audio notes and typing in secret chats\n\nhttps://github.com/DrKLO/Telegram/pull/443",
+            "time" : "2014-06-11T03:05:54",
+            "published" : "2014-06-11T03:05:54",
+            "title" : "",
+            "comment" : "New photo viewer(close by swipe down, not tested on 2.x), optimize emoji load, fixed audio notes and typing in secret chats\n\nhttps://github.com/DrKLO/Telegram/pull/443"
+         }
+      },
+      {
+         "doc" : {
+            "comment" : "Fixed image stuck after zoom end between max and min",
+            "published" : "2014-06-11T03:33:45",
+            "title" : "",
+            "time" : "2014-06-11T03:33:45",
+            "content" : "Fixed image stuck after zoom end between max and min",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "512aeaf2bbeed0ee3ea026d98c32231f0cf1ae22",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "db64b2f6981738aa970fd06dd61c5c87df0936eb",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "time" : "2014-06-11T04:22:42",
+            "content" : "Photo viewer bug fixes",
+            "published" : "2014-06-11T04:22:42",
+            "title" : "",
+            "comment" : "Photo viewer bug fixes"
+         }
+      },
+      {
+         "doc" : {
+            "published" : "2014-06-12T05:13:15",
+            "title" : "",
+            "comment" : "New photo picker in chats",
+            "content" : "New photo picker in chats",
+            "time" : "2014-06-12T05:13:15",
+            "_id" : "55ccb7c9e237c7dfb7f75aac4f4563cb5961bc2b",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "69f8bb4f4033998da22c855e32ba3c9515775027",
+            "time" : "2014-06-12T19:53:20",
+            "content" : "Bug fixes, locales update\n\nhttps://github.com/DrKLO/Telegram/issues/451",
+            "comment" : "Bug fixes, locales update\n\nhttps://github.com/DrKLO/Telegram/issues/451",
+            "title" : "",
+            "published" : "2014-06-12T19:53:20"
+         }
+      },
+      {
+         "doc" : {
+            "_id" : "1cda12c76abed7c7d9c30d74158bcacdf192a4c5",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "published" : "2014-06-12T23:55:13",
+            "title" : "",
+            "comment" : "Bug fixes",
+            "content" : "Bug fixes",
+            "time" : "2014-06-12T23:55:13"
+         }
+      },
+      {
+         "doc" : {
+            "_id" : "01e0b7ae81e6a0f16306004b751e582e404a12b2",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "published" : "2014-06-13T02:37:05",
+            "title" : "",
+            "comment" : "More bug fixes, new locales",
+            "content" : "More bug fixes, new locales",
+            "time" : "2014-06-13T02:37:05"
+         }
+      },
+      {
+         "doc" : {
+            "comment" : "Merge branch 'dev'",
+            "published" : "2014-06-13T02:59:59",
+            "title" : "",
+            "time" : "2014-06-13T02:59:59",
+            "content" : "Merge branch 'dev'",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "d1c9175b3dcc6f9403896af5705618ea8df2971e",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "published" : "2014-06-13T14:42:21",
+            "title" : "",
+            "comment" : "Update locales, bug fixes",
+            "time" : "2014-06-13T14:42:21",
+            "content" : "Update locales, bug fixes",
+            "_id" : "ad0188baea5d747b946fad4f6dcb3439fb28518e",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "content" : "Bug fixes",
+            "time" : "2014-06-13T19:03:06",
+            "comment" : "Bug fixes",
+            "published" : "2014-06-13T19:03:06",
+            "title" : "",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "fc14e8b4f79407dd134ef79390d6f5e57491e1d8"
+         }
+      },
+      {
+         "doc" : {
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "19ba20cdabb314de51b6771a588d7becfa4f5ff4",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "comment" : "Fixed screen orientation lock on tablets, more bug fixes\n\nhttps://github.com/DrKLO/Telegram/pull/453",
+            "published" : "2014-06-13T22:26:05",
+            "title" : "",
+            "time" : "2014-06-13T22:26:05",
+            "content" : "Fixed screen orientation lock on tablets, more bug fixes\n\nhttps://github.com/DrKLO/Telegram/pull/453"
+         }
+      },
+      {
+         "doc" : {
+            "time" : "2014-06-14T12:36:01",
+            "content" : "Possible crash fixes, fixed gif selection from new photo picker, added button to select documents from external apps",
+            "comment" : "Possible crash fixes, fixed gif selection from new photo picker, added button to select documents from external apps",
+            "published" : "2014-06-14T12:36:01",
+            "title" : "",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "02a20acc4c7746f1de3628a74d095c4cf83b63a3"
+         }
+      },
+      {
+         "doc" : {
+            "published" : "2014-06-14T16:18:58",
+            "title" : "",
+            "comment" : "Catch native lib load errors",
+            "content" : "Catch native lib load errors",
+            "time" : "2014-06-14T16:18:58",
+            "_id" : "8c9616cb00e879d80fcf7d2b2fbcdf816fdcf597",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "68aeaeefc363998f64c01b786b8ce3ded6acc4e6",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "content" : "Removed jnigraphics use from native lib(not found on some devices), bug fixes",
+            "time" : "2014-06-15T03:23:36",
+            "published" : "2014-06-15T03:23:36",
+            "title" : "",
+            "comment" : "Removed jnigraphics use from native lib(not found on some devices), bug fixes"
+         }
+      },
+      {
+         "doc" : {
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "a87968cefc568d265d29b1b696c2ed351182ecc1",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "comment" : "Log and send native lib load error with HA crashes, fixed emoji scale with custom font size, removed all lib dependency in native code",
+            "published" : "2014-06-15T12:03:43",
+            "title" : "",
+            "time" : "2014-06-15T12:03:43",
+            "content" : "Log and send native lib load error with HA crashes, fixed emoji scale with custom font size, removed all lib dependency in native code"
+         }
+      },
+      {
+         "doc" : {
+            "time" : "2014-06-16T16:36:54",
+            "content" : "Avoid uploading same file twice, bug fixes",
+            "title" : "",
+            "published" : "2014-06-16T16:36:54",
+            "comment" : "Avoid uploading same file twice, bug fixes",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "358a067accf0732cda8793eb3c62f97e71276df6",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "comment" : "Partly revert last commit",
+            "published" : "2014-06-16T18:31:12",
+            "title" : "",
+            "time" : "2014-06-16T18:31:12",
+            "content" : "Partly revert last commit",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "69c3c6066ed85f32a94d1b6d1aa7110995fabdf6",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "content" : "Some new features and bug fixes\n\nhttps://github.com/DrKLO/Telegram/pull/200\nhttps://github.com/DrKLO/Telegram/issues/455",
+            "time" : "2014-06-17T18:45:21",
+            "published" : "2014-06-17T18:45:21",
+            "title" : "",
+            "comment" : "Some new features and bug fixes\n\nhttps://github.com/DrKLO/Telegram/pull/200\nhttps://github.com/DrKLO/Telegram/issues/455",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "0b0d485093dc427a04b8173e6dad6a5f1ac8859a",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "99bdc317accdece6e3dd0b909e81ede49853f1e7",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "comment" : "Disable swipe back in google map view",
+            "published" : "2014-06-17T19:10:02",
+            "title" : "",
+            "time" : "2014-06-17T19:10:02",
+            "content" : "Disable swipe back in google map view"
+         }
+      },
+      {
+         "doc" : {
+            "comment" : "Fixed resuming network when it not need",
+            "published" : "2014-06-18T00:43:57",
+            "title" : "",
+            "time" : "2014-06-18T00:43:57",
+            "content" : "Fixed resuming network when it not need",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "f6eac5cbceb25ddc7ade8a6fbe58ae39a9e709b8",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "70882c5d28b501d6f6cbf6ad0ead14b5105ab788",
+            "time" : "2014-06-20T04:18:13",
+            "content" : "Avoid sending file twice (photos, documents, videos), move notifications settings from profiles to other view",
+            "comment" : "Avoid sending file twice (photos, documents, videos), move notifications settings from profiles to other view",
+            "published" : "2014-06-20T04:18:13",
+            "title" : ""
+         }
+      },
+      {
+         "doc" : {
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "458517e4a4d9d078841e7648dea27d46e4f5d057",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "time" : "2014-06-20T23:34:16",
+            "content" : "Improved files download speed",
+            "title" : "",
+            "published" : "2014-06-20T23:34:16",
+            "comment" : "Improved files download speed"
+         }
+      },
+      {
+         "doc" : {
+            "comment" : "Added white color to color picker, decelerating scrolling in photo viewer",
+            "published" : "2014-06-22T01:46:11",
+            "title" : "",
+            "content" : "Added white color to color picker, decelerating scrolling in photo viewer",
+            "time" : "2014-06-22T01:46:11",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "b85b6c1068b45a4306d00e38837982bdc7bf08d7",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "comment" : "Bug fixes",
+            "title" : "",
+            "published" : "2014-06-22T13:36:52",
+            "content" : "Bug fixes",
+            "time" : "2014-06-22T13:36:52",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "9cbbe999e133645c6edd6ea48c9e544521cc1315",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "d728d9c405d28dafa72d9f94f2c89fcb3674e3ef",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "time" : "2014-06-22T13:49:25",
+            "content" : "Previous commit fix",
+            "published" : "2014-06-22T13:49:25",
+            "title" : "",
+            "comment" : "Previous commit fix"
+         }
+      },
+      {
+         "doc" : {
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "2cb6bb3e62d9cee8350390b939c07f2f196c4ef9",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "content" : "Merge branch 'dev'",
+            "time" : "2014-06-22T13:49:42",
+            "published" : "2014-06-22T13:49:42",
+            "title" : "",
+            "comment" : "Merge branch 'dev'"
+         }
+      },
+      {
+         "doc" : {
+            "comment" : "Restored wrongly deleted code",
+            "published" : "2014-06-23T01:15:10",
+            "title" : "",
+            "time" : "2014-06-23T01:15:10",
+            "content" : "Restored wrongly deleted code",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "91f207378075b291c58ec236c2112bb22cad2590",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "content" : "Popup notifications (not finished), removed in-app notifications, DB performance optimisations (fixes for Android L), separate app logic from network logic (not finished)\n\nNote: don\u00e2\u0080\u0099t upload to any markets, it\u00e2\u0080\u0099s may be unstable",
+            "time" : "2014-07-03T02:39:05",
+            "published" : "2014-07-03T02:39:05",
+            "title" : "",
+            "comment" : "Popup notifications (not finished), removed in-app notifications, DB performance optimisations (fixes for Android L), separate app logic from network logic (not finished)\n\nNote: don\u00e2\u0080\u0099t upload to any markets, it\u00e2\u0080\u0099s may be unstable",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "d29eabd16359a4433c37216ea251a7f8fb3c398a",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "97ac030a650968b6ef77457add9d9f6528492d59",
+            "content" : "Added Plural Rules",
+            "time" : "2014-07-03T18:55:04",
+            "comment" : "Added Plural Rules",
+            "published" : "2014-07-03T18:55:04",
+            "title" : ""
+         }
+      },
+      {
+         "doc" : {
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "c549e8bc57495797f6a55480e5d92ca75359e061",
+            "content" : "Bug fixes",
+            "time" : "2014-07-04T02:41:59",
+            "comment" : "Bug fixes",
+            "published" : "2014-07-04T02:41:59",
+            "title" : ""
+         }
+      },
+      {
+         "doc" : {
+            "title" : "",
+            "published" : "2014-07-10T04:15:58",
+            "comment" : "Notification improvements",
+            "time" : "2014-07-10T04:15:58",
+            "content" : "Notification improvements",
+            "_id" : "d3afc8362e85a05a84b73cb048e73efd8208fdea",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "_id" : "d9b9a721a6c5620381d87e27f982e146587afeb0",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "published" : "2014-07-10T15:30:55",
+            "title" : "",
+            "comment" : "Bug fixes",
+            "content" : "Bug fixes",
+            "time" : "2014-07-10T15:30:55"
+         }
+      },
+      {
+         "doc" : {
+            "comment" : "FIxed android 2.x crashes",
+            "title" : "",
+            "published" : "2014-07-10T16:14:36",
+            "time" : "2014-07-10T16:14:36",
+            "content" : "FIxed android 2.x crashes",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "172ded5ea551325b0761643da2c5155a16379b26",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "f44955380fb7a063a9b327dfa3ca7f2457e87dec",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "comment" : "Fix some issues\n\nhttps://github.com/DrKLO/Telegram/issues/468\nhttps://github.com/DrKLO/Telegram/issues/464\nhttps://github.com/DrKLO/Telegram/issues/394\nhttps://github.com/DrKLO/Telegram/issues/334",
+            "published" : "2014-07-11T01:15:39",
+            "title" : "",
+            "content" : "Fix some issues\n\nhttps://github.com/DrKLO/Telegram/issues/468\nhttps://github.com/DrKLO/Telegram/issues/464\nhttps://github.com/DrKLO/Telegram/issues/394\nhttps://github.com/DrKLO/Telegram/issues/334",
+            "time" : "2014-07-11T01:15:39"
+         }
+      },
+      {
+         "doc" : {
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "adbe66c860a975d7bbe8d813c6ec1bcd3da477ec",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "time" : "2014-07-11T17:54:17",
+            "content" : "Restore unread count after app close",
+            "published" : "2014-07-11T17:54:17",
+            "title" : "",
+            "comment" : "Restore unread count after app close"
+         }
+      },
+      {
+         "doc" : {
+            "comment" : "Bug fixes",
+            "published" : "2014-07-12T01:47:50",
+            "title" : "",
+            "time" : "2014-07-12T01:47:50",
+            "content" : "Bug fixes",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "fa1734518d8df5746d4bbbffe87dc9cd8dc40899",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "comment" : "Fixed broken photo viewer after main activity destroy",
+            "title" : "",
+            "published" : "2014-07-12T02:14:13",
+            "content" : "Fixed broken photo viewer after main activity destroy",
+            "time" : "2014-07-12T02:14:13",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "780ca63d8d0575917c028d3de2701f84290800d5",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "9667a246b3c2da917a033b565716fabad025c256",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "time" : "2014-07-12T14:23:36",
+            "content" : "Attempt to fix wrong unread count in notification",
+            "title" : "",
+            "published" : "2014-07-12T14:23:36",
+            "comment" : "Attempt to fix wrong unread count in notification"
+         }
+      },
+      {
+         "doc" : {
+            "time" : "2014-07-12T18:50:12",
+            "content" : "Bug fixes",
+            "comment" : "Bug fixes",
+            "title" : "",
+            "published" : "2014-07-12T18:50:12",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "a0eb876c7bd5ebf4592cbc4f776362c6fa5dd715"
+         }
+      },
+      {
+         "doc" : {
+            "time" : "2014-07-12T19:38:37",
+            "content" : "Finally fix wrong unread count",
+            "published" : "2014-07-12T19:38:37",
+            "title" : "",
+            "comment" : "Finally fix wrong unread count",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "f00aef78bdf914b684b48e87ab7e0a5a93b6be51",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "1122ab85d16211888e90700ad7546e5ed8343cc7",
+            "content" : "Bug fixes",
+            "time" : "2014-07-13T03:02:21",
+            "comment" : "Bug fixes",
+            "published" : "2014-07-13T03:02:21",
+            "title" : ""
+         }
+      },
+      {
+         "doc" : {
+            "_id" : "1a9632e042ae46cdc0b3fdcdd64933514a7ca4cb",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "published" : "2014-07-13T14:50:31",
+            "title" : "",
+            "comment" : "Fixed Alert EditText background on 2.x",
+            "time" : "2014-07-13T14:50:31",
+            "content" : "Fixed Alert EditText background on 2.x"
+         }
+      },
+      {
+         "doc" : {
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "a2a1868048817212ed92139bd5baf6c089b7fdb4",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "time" : "2014-07-15T01:27:26",
+            "content" : "Bug fixes",
+            "published" : "2014-07-15T01:27:26",
+            "title" : "",
+            "comment" : "Bug fixes"
+         }
+      },
+      {
+         "doc" : {
+            "title" : "",
+            "published" : "2014-07-15T23:57:09",
+            "comment" : "Fixed some bugs, upload locales",
+            "time" : "2014-07-15T23:57:09",
+            "content" : "Fixed some bugs, upload locales",
+            "_id" : "ff7e6ab3c910cc0c7c6d106557c3912f23d0547d",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "content" : "Bug fixes",
+            "time" : "2014-07-16T01:27:28",
+            "published" : "2014-07-16T01:27:28",
+            "title" : "",
+            "comment" : "Bug fixes",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "feaf6c32d82a438f19b79103e90a2ceb3cab9c69",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "content" : "Try to login in different DC if current is unavailable",
+            "time" : "2014-07-16T02:14:13",
+            "comment" : "Try to login in different DC if current is unavailable",
+            "published" : "2014-07-16T02:14:13",
+            "title" : "",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "5bed3fb6cd3366f0d810b8c4532d368671d525b4"
+         }
+      },
+      {
+         "doc" : {
+            "_id" : "d24578fe6bc2c585a0b1a5b40b3ca80a719f7ef9",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "published" : "2014-07-16T13:36:07",
+            "title" : "",
+            "comment" : "Bug fixes",
+            "content" : "Bug fixes",
+            "time" : "2014-07-16T13:36:07"
+         }
+      },
+      {
+         "doc" : {
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "1c2010a428fda5a03a96b27a9be817bdac3d2b17",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "time" : "2014-07-20T03:31:49",
+            "content" : "Bug fixes",
+            "published" : "2014-07-20T03:31:49",
+            "title" : "",
+            "comment" : "Bug fixes"
+         }
+      },
+      {
+         "doc" : {
+            "content" : "Bug fixes",
+            "time" : "2014-07-20T20:02:01",
+            "published" : "2014-07-20T20:02:01",
+            "title" : "",
+            "comment" : "Bug fixes",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "5855dc05674ee9324f34d4da63714d020835c07a",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "content" : "Fixed not working notifications in opened chat while app in background",
+            "time" : "2014-07-21T01:49:33",
+            "comment" : "Fixed not working notifications in opened chat while app in background",
+            "title" : "",
+            "published" : "2014-07-21T01:49:33",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "e2a6511fbf1f45c9a934b895e22bf95032a7cff9"
+         }
+      },
+      {
+         "doc" : {
+            "comment" : "Merge branch 'dev'",
+            "published" : "2014-07-21T01:54:18",
+            "title" : "",
+            "content" : "Merge branch 'dev'",
+            "time" : "2014-07-21T01:54:18",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "331a0bb77e8483fe51dc2d28a6fec0a73c48cace",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "f92df091ef298aa909f08b4ee2f6ed67c4416309",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "comment" : "Bug fixes",
+            "title" : "",
+            "published" : "2014-07-23T03:27:00",
+            "content" : "Bug fixes",
+            "time" : "2014-07-23T03:27:00"
+         }
+      },
+      {
+         "doc" : {
+            "published" : "2014-07-23T20:53:14",
+            "title" : "",
+            "comment" : "Fixed broken image resizing in last commit",
+            "time" : "2014-07-23T20:53:14",
+            "content" : "Fixed broken image resizing in last commit",
+            "_id" : "e5cb3685a0467f7f7cce5814cef583036b493371",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "content" : "Broadcasts, updated gif lib, blur image\\video preview\n\nNote: untested, don\u00e2\u0080\u0099t upload to market",
+            "time" : "2014-07-27T02:28:33",
+            "comment" : "Broadcasts, updated gif lib, blur image\\video preview\n\nNote: untested, don\u00e2\u0080\u0099t upload to market",
+            "published" : "2014-07-27T02:28:33",
+            "title" : "",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "91ae97e257aaed7095266a4cf987035f7da95f23"
+         }
+      },
+      {
+         "doc" : {
+            "content" : "Fixed internal push registration at first start, updated some locales",
+            "time" : "2014-07-27T03:18:24",
+            "comment" : "Fixed internal push registration at first start, updated some locales",
+            "published" : "2014-07-27T03:18:24",
+            "title" : "",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "2eb84e23f616ddc284d648031d223776a2bafea2"
+         }
+      },
+      {
+         "doc" : {
+            "time" : "2014-07-27T14:53:00",
+            "content" : "Changed broadcast lists ids\n\nold broadcast lists will be broken",
+            "comment" : "Changed broadcast lists ids\n\nold broadcast lists will be broken",
+            "published" : "2014-07-27T14:53:00",
+            "title" : "",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "755446e9bbd31354198cc266eea6148854e00afb"
+         }
+      },
+      {
+         "doc" : {
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "e27094b9632ac8c0f45fff913d8761fb98d47bac",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "comment" : "Bug fixes",
+            "published" : "2014-07-30T08:49:39",
+            "title" : "",
+            "content" : "Bug fixes",
+            "time" : "2014-07-30T08:49:39"
+         }
+      },
+      {
+         "doc" : {
+            "_id" : "f7e0225f48ee3e7b521c6b8f89a3a4c1540282f1",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "published" : "2014-07-31T01:50:12",
+            "title" : "",
+            "comment" : "Bug fixes",
+            "time" : "2014-07-31T01:50:12",
+            "content" : "Bug fixes"
+         }
+      },
+      {
+         "doc" : {
+            "published" : "2014-08-02T00:31:15",
+            "title" : "",
+            "comment" : "Bug fixes",
+            "content" : "Bug fixes",
+            "time" : "2014-08-02T00:31:15",
+            "_id" : "dbef14dfeb85878e461cef529f5a05b5327d09d4",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "87612e006b1889205d532ee351249d32897dd4cc",
+            "content" : "Bug fixes",
+            "time" : "2014-08-06T03:17:40",
+            "comment" : "Bug fixes",
+            "published" : "2014-08-06T03:17:40",
+            "title" : ""
+         }
+      },
+      {
+         "doc" : {
+            "comment" : "Bug fixes",
+            "published" : "2014-08-07T01:27:24",
+            "title" : "",
+            "content" : "Bug fixes",
+            "time" : "2014-08-07T01:27:24",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "5d042955cd6a42d42bff0acf430a1e0671c2ea43",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "8f7652bb7e319c5aefffe81a8211af6722bfc745",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "content" : "Bug fixes",
+            "time" : "2014-08-08T14:17:06",
+            "published" : "2014-08-08T14:17:06",
+            "title" : "",
+            "comment" : "Bug fixes"
+         }
+      },
+      {
+         "doc" : {
+            "content" : "Merge branch 'dev'",
+            "time" : "2014-08-08T14:18:21",
+            "comment" : "Merge branch 'dev'",
+            "title" : "",
+            "published" : "2014-08-08T14:18:21",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "7545dfe20a42007c93b8e7e1b05b1d6838d001c9"
+         }
+      },
+      {
+         "doc" : {
+            "time" : "2014-08-22T18:24:33",
+            "content" : "A lot of features (may be unstable, don't upload to markets)\n\nBlocked contacts\nMedia auto download\nRepeat notifications every hour\nVibration patterns\nResend messages after app restart",
+            "published" : "2014-08-22T18:24:33",
+            "title" : "",
+            "comment" : "A lot of features (may be unstable, don't upload to markets)\n\nBlocked contacts\nMedia auto download\nRepeat notifications every hour\nVibration patterns\nResend messages after app restart",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "fc46daa50ffa66956060df5f5ba3829591aba493",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "21273f822c542ddd4939fcb672beba794ce64641",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "comment" : "Bug fixes",
+            "published" : "2014-08-23T03:22:33",
+            "title" : "",
+            "time" : "2014-08-23T03:22:33",
+            "content" : "Bug fixes"
+         }
+      },
+      {
+         "doc" : {
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "8b73d93d1a4e5854567bbad1a28ef199f4d259d7",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "comment" : "Fixed database update to new version",
+            "title" : "",
+            "published" : "2014-08-24T00:51:53",
+            "time" : "2014-08-24T00:51:53",
+            "content" : "Fixed database update to new version"
+         }
+      },
+      {
+         "doc" : {
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "2b15ac63f864c0c15a32e05c591cb4bb53ca432d",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "comment" : "Continue upload file after app restart, bug fixes",
+            "title" : "",
+            "published" : "2014-08-27T01:26:25",
+            "time" : "2014-08-27T01:26:25",
+            "content" : "Continue upload file after app restart, bug fixes"
+         }
+      },
+      {
+         "doc" : {
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "8bad65596615b6ce4b902b612b6c657f42fd82da",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "comment" : "Bug fixes",
+            "title" : "",
+            "published" : "2014-08-27T09:53:26",
+            "content" : "Bug fixes",
+            "time" : "2014-08-27T09:53:26"
+         }
+      },
+      {
+         "doc" : {
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "16150fe751d18dd1d08b13a450af49743ce934fe",
+            "time" : "2014-08-30T00:06:04",
+            "content" : "New documents design, bug fixes",
+            "comment" : "New documents design, bug fixes",
+            "title" : "",
+            "published" : "2014-08-30T00:06:04"
+         }
+      },
+      {
+         "doc" : {
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "9f7b47f5172e5df6143e2adecabc62e1bbff6523",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "time" : "2014-08-30T22:30:42",
+            "content" : "Update locales, bug fixes",
+            "title" : "",
+            "published" : "2014-08-30T22:30:42",
+            "comment" : "Update locales, bug fixes"
+         }
+      },
+      {
+         "doc" : {
+            "comment" : "Fixed documents saving, changed long vibration pattern",
+            "title" : "",
+            "published" : "2014-08-31T12:02:28",
+            "time" : "2014-08-31T12:02:28",
+            "content" : "Fixed documents saving, changed long vibration pattern",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "b8ecf4e083ff4337435560ff67cae09e167f83b6",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "time" : "2014-09-01T19:43:03",
+            "content" : "Added other upload queue for small files",
+            "published" : "2014-09-01T19:43:03",
+            "title" : "",
+            "comment" : "Added other upload queue for small files",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "8eea00b7b4925fc6f41bb2fa88b64a6f4c50930d",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "content" : "Updated to 1.8.3, video compression with parallel upload to server (Android 4.3+ only now, disabled)",
+            "time" : "2014-09-14T03:40:36",
+            "published" : "2014-09-14T03:40:36",
+            "title" : "",
+            "comment" : "Updated to 1.8.3, video compression with parallel upload to server (Android 4.3+ only now, disabled)",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "8d412f9eeaa005c56ef80b85ba4fd212632907c4",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "3eed85a31d19481d0551deb3d41c847fe6cd2cce",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "comment" : "Video editing and compression on 4.1+ (please test it and send debug info to me), Tablet version, a lot of other things (don't upload to markets, it's unstable)",
+            "title" : "",
+            "published" : "2014-09-24T06:17:27",
+            "time" : "2014-09-24T06:17:27",
+            "content" : "Video editing and compression on 4.1+ (please test it and send debug info to me), Tablet version, a lot of other things (don't upload to markets, it's unstable)"
+         }
+      },
+      {
+         "doc" : {
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "4d5b43f6d76a7b77a5b856f56f9caa4302e4a9a7",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "comment" : "Changed isTablet check",
+            "title" : "",
+            "published" : "2014-09-24T19:08:25",
+            "time" : "2014-09-24T19:08:25",
+            "content" : "Changed isTablet check"
+         }
+      },
+      {
+         "doc" : {
+            "published" : "2014-09-25T07:54:35",
+            "title" : "",
+            "comment" : "Changed small Tablets portrait layout, changes media store path to sdcard/Telegram (need testing)",
+            "time" : "2014-09-25T07:54:35",
+            "content" : "Changed small Tablets portrait layout, changes media store path to sdcard/Telegram (need testing)",
+            "_id" : "ab44b870d8333cf61c95c9b8b4fa8ac116384cdf",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "27972c8ec54d55989b4d7486ac6f9de00007f522",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "comment" : "Update locales, bug fixes",
+            "published" : "2014-09-25T18:57:17",
+            "title" : "",
+            "time" : "2014-09-25T18:57:17",
+            "content" : "Update locales, bug fixes"
+         }
+      },
+      {
+         "doc" : {
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "dff98476dd51c1d5f41982d8fa7348454fa4618a",
+            "content" : "Video convert queue, bug fixes",
+            "time" : "2014-09-28T17:37:26",
+            "comment" : "Video convert queue, bug fixes",
+            "published" : "2014-09-28T17:37:26",
+            "title" : ""
+         }
+      },
+      {
+         "doc" : {
+            "time" : "2014-09-28T19:07:16",
+            "content" : "Bug fixes\n\nhttps://github.com/DrKLO/Telegram/pull/581",
+            "comment" : "Bug fixes\n\nhttps://github.com/DrKLO/Telegram/pull/581",
+            "published" : "2014-09-28T19:07:16",
+            "title" : "",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "f83a1b56ff1743f783ab05ad87c7f79c65ae6cb4"
+         }
+      },
+      {
+         "doc" : {
+            "_id" : "f7d3faab5aa9064bc6e705fe990296f172415ac2",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "title" : "",
+            "published" : "2014-09-30T02:48:11",
+            "comment" : "Service for video encoding, update locales, bug fixes",
+            "content" : "Service for video encoding, update locales, bug fixes",
+            "time" : "2014-09-30T02:48:11"
+         }
+      },
+      {
+         "doc" : {
+            "comment" : "Bug fixes",
+            "published" : "2014-10-01T02:36:18",
+            "title" : "",
+            "content" : "Bug fixes",
+            "time" : "2014-10-01T02:36:18",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "53ddefb818cd1443ea1a364f241e405fa4a316d6",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "published" : "2014-10-01T23:55:24",
+            "title" : "",
+            "comment" : "Bug fixes",
+            "content" : "Bug fixes",
+            "time" : "2014-10-01T23:55:24",
+            "_id" : "335434239099a48069cd25d9e05f5c160d19154b",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "4baa0f66a0f4c452d0cde5169b1fb547541f80a0",
+            "content" : "added Android Wear support",
+            "time" : "2014-10-04T19:56:09",
+            "comment" : "added Android Wear support",
+            "title" : "",
+            "published" : "2014-10-04T19:56:09"
+         }
+      },
+      {
+         "doc" : {
+            "content" : "Added open on phone button on Android Wear, bug fixes",
+            "time" : "2014-10-06T01:23:57",
+            "comment" : "Added open on phone button on Android Wear, bug fixes",
+            "title" : "",
+            "published" : "2014-10-06T01:23:57",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "28270a87d163154e6a776f9d50279dc9c5c09481"
+         }
+      },
+      {
+         "doc" : {
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "62635da258be3723dd5a6ba3b82fc59cdf04dcb2",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "content" : "Merge branch 'dev'",
+            "time" : "2014-10-06T01:24:22",
+            "published" : "2014-10-06T01:24:22",
+            "title" : "",
+            "comment" : "Merge branch 'dev'"
+         }
+      },
+      {
+         "doc" : {
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "a9e84c0e234d71c152ae6cfc31723ed1b5cf9f07",
+            "time" : "2014-10-06T14:38:00",
+            "content" : "Added Korean locale, bug fixes",
+            "comment" : "Added Korean locale, bug fixes",
+            "published" : "2014-10-06T14:38:00",
+            "title" : ""
+         }
+      },
+      {
+         "doc" : {
+            "_id" : "43674c486f92415e669a102d0c403fc94cac2cd3",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "title" : "",
+            "published" : "2014-10-08T00:14:27",
+            "comment" : "Move to API layer 17, bug fixes",
+            "content" : "Move to API layer 17, bug fixes",
+            "time" : "2014-10-08T00:14:27"
+         }
+      },
+      {
+         "doc" : {
+            "time" : "2014-10-08T00:15:02",
+            "content" : "Merge branch 'dev'",
+            "comment" : "Merge branch 'dev'",
+            "published" : "2014-10-08T00:15:02",
+            "title" : "",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "9c4835e6cfbf9078871e99b1a6a8accc5f4d98a4"
+         }
+      },
+      {
+         "doc" : {
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "c6b1a3430bfb70523133ed871c64e69aaeb7aaa4",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "comment" : "Updated database structure, updated sqlite (don't use this source code, it may be changed)",
+            "published" : "2014-10-09T00:22:22",
+            "title" : "",
+            "time" : "2014-10-09T00:22:22",
+            "content" : "Updated database structure, updated sqlite (don't use this source code, it may be changed)"
+         }
+      },
+      {
+         "doc" : {
+            "title" : "",
+            "published" : "2014-10-09T19:55:05",
+            "comment" : "Fixes (unstable, don't upload to markets)",
+            "time" : "2014-10-09T19:55:05",
+            "content" : "Fixes (unstable, don't upload to markets)",
+            "_id" : "22a0c2aca644d8f4c41f727a6c16a5401b191249",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "ad863779f799ea51c37d4a41e76fd7006339ef3e",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "comment" : "Different improvements",
+            "published" : "2014-10-10T21:16:39",
+            "title" : "",
+            "content" : "Different improvements",
+            "time" : "2014-10-10T21:16:39"
+         }
+      },
+      {
+         "doc" : {
+            "time" : "2014-10-11T15:30:32",
+            "content" : "Stability improvements",
+            "comment" : "Stability improvements",
+            "published" : "2014-10-11T15:30:32",
+            "title" : "",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "98a0a67c10732ddc4f8d0ec6348ea6ce588c72e3"
+         }
+      },
+      {
+         "doc" : {
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "fd69c56f08c1e39aad76f70a1308643b72b9f7ed",
+            "content" : "Updated readme",
+            "time" : "2014-10-11T15:37:47",
+            "comment" : "Updated readme",
+            "published" : "2014-10-11T15:37:47",
+            "title" : ""
+         }
+      },
+      {
+         "doc" : {
+            "content" : "Merge branch 'master' into dev",
+            "time" : "2014-10-13T00:29:31",
+            "published" : "2014-10-13T00:29:31",
+            "title" : "",
+            "comment" : "Merge branch 'master' into dev",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "a54300fb0aeacafd3215162016787fa2e32375a5",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "b2ad802ba56ab67f90697b1988cff7ef6e1ad9af",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "comment" : "Update secret chats layer",
+            "title" : "",
+            "published" : "2014-10-14T12:13:16",
+            "content" : "Update secret chats layer",
+            "time" : "2014-10-14T12:13:16"
+         }
+      },
+      {
+         "doc" : {
+            "_id" : "2f23635e4a78851356141c0d72014608dd22e723",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "title" : "",
+            "published" : "2014-10-15T00:36:15",
+            "comment" : "UI update",
+            "content" : "UI update",
+            "time" : "2014-10-15T00:36:15"
+         }
+      },
+      {
+         "doc" : {
+            "comment" : "UI improvements",
+            "published" : "2014-10-15T22:43:52",
+            "title" : "",
+            "time" : "2014-10-15T22:43:52",
+            "content" : "UI improvements",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "288fceeb9fff8084f7c8494d25fea5a6bf73c54a",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "5bbfba2092139b41bdd80ba4bf7e89961cff7bd7",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "comment" : "UI improvements",
+            "published" : "2014-10-17T00:02:44",
+            "title" : "",
+            "time" : "2014-10-17T00:02:44",
+            "content" : "UI improvements"
+         }
+      },
+      {
+         "doc" : {
+            "comment" : "Update to layer 18, usernames support, UI improvements",
+            "title" : "",
+            "published" : "2014-10-17T22:29:13",
+            "time" : "2014-10-17T22:29:13",
+            "content" : "Update to layer 18, usernames support, UI improvements",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "bc76df2f9947a6e55a9defece97cdc5bae4d0458",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "_id" : "87cb843ea0e393961030064a16b4e616b9132e87",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "title" : "",
+            "published" : "2014-10-18T03:06:51",
+            "comment" : "Fixed video compression in Android L, bug fixes",
+            "content" : "Fixed video compression in Android L, bug fixes",
+            "time" : "2014-10-18T03:06:51"
+         }
+      },
+      {
+         "doc" : {
+            "comment" : "Crash fixes",
+            "published" : "2014-10-20T15:30:05",
+            "title" : "",
+            "content" : "Crash fixes",
+            "time" : "2014-10-20T15:30:05",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "15ac6cdb386c1e98f520774d153dcd5110c20df2",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "08a49ea2eabd8954560b5b68a4a09d4b4f83d5d3",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "time" : "2014-10-20T22:11:47",
+            "content" : "Enable screenshot detection",
+            "published" : "2014-10-20T22:11:47",
+            "title" : "",
+            "comment" : "Enable screenshot detection"
+         }
+      },
+      {
+         "doc" : {
+            "content" : "Different improvements",
+            "time" : "2014-10-22T00:35:16",
+            "comment" : "Different improvements",
+            "title" : "",
+            "published" : "2014-10-22T00:35:16",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "e8cc3bdd3ccb04d148a4c7c91b9215669a0d020d"
+         }
+      },
+      {
+         "doc" : {
+            "time" : "2014-10-22T02:16:51",
+            "content" : "Crash fix",
+            "comment" : "Crash fix",
+            "title" : "",
+            "published" : "2014-10-22T02:16:51",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "ef2b368b6547526d5d3fedfa86069713bcd1c203"
+         }
+      },
+      {
+         "doc" : {
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "e3d2b9cece6c8bcb5069cefdd7a835a1123dcc4f",
+            "content" : "Bug fixes",
+            "time" : "2014-10-22T14:11:47",
+            "comment" : "Bug fixes",
+            "published" : "2014-10-22T14:11:47",
+            "title" : ""
+         }
+      },
+      {
+         "doc" : {
+            "published" : "2014-10-23T00:01:07",
+            "title" : "",
+            "comment" : "Different improvements",
+            "content" : "Different improvements",
+            "time" : "2014-10-23T00:01:07",
+            "_id" : "e5def002f7e81d6cb55357f82eef097b90dc3b01",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "published" : "2014-10-23T11:55:32",
+            "title" : "",
+            "comment" : "Bug fixes",
+            "time" : "2014-10-23T11:55:32",
+            "content" : "Bug fixes",
+            "_id" : "d03fa95568bfcb5bb98ae6c79fedc037eaf0903a",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "content" : "Bug fixes",
+            "time" : "2014-10-23T19:30:35",
+            "published" : "2014-10-23T19:30:35",
+            "title" : "",
+            "comment" : "Bug fixes",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "abf8f6f6199dfcc0df3cc315ce5ba1e4edeb9991",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "cd9d188fe2bed8e5df5a1b0f0bd34ab336c2892f",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "comment" : "Merge branch 'dev'",
+            "published" : "2014-10-23T19:31:55",
+            "title" : "",
+            "content" : "Merge branch 'dev'",
+            "time" : "2014-10-23T19:31:55"
+         }
+      },
+      {
+         "doc" : {
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "b33d5f078674667c917427b98de6242eb2b2a377",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "comment" : "Changed native lib loaded",
+            "published" : "2014-10-24T17:43:45",
+            "title" : "",
+            "content" : "Changed native lib loaded",
+            "time" : "2014-10-24T17:43:45"
+         }
+      },
+      {
+         "doc" : {
+            "_id" : "6e386c58841f6b10d6db22e7192dfe800cb7b9e4",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "title" : "",
+            "published" : "2014-10-24T18:04:53",
+            "comment" : "One more fix for native lib loader",
+            "content" : "One more fix for native lib loader",
+            "time" : "2014-10-24T18:04:53"
+         }
+      },
+      {
+         "doc" : {
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "3cd9b847e15a8d12927c7ecad57aa7e256c548b0",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "time" : "2014-10-25T11:16:21",
+            "content" : "Fixed build with last mp4parser",
+            "title" : "",
+            "published" : "2014-10-25T11:16:21",
+            "comment" : "Fixed build with last mp4parser"
+         }
+      },
+      {
+         "doc" : {
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "a4af1fb2f7fb7eef97881cdee0573d71bde41cae",
+            "content" : "Bug fixes",
+            "time" : "2014-10-28T20:07:44",
+            "comment" : "Bug fixes",
+            "published" : "2014-10-28T20:07:44",
+            "title" : ""
+         }
+      },
+      {
+         "doc" : {
+            "title" : "",
+            "published" : "2014-10-29T00:27:44",
+            "comment" : "Bug fixes",
+            "time" : "2014-10-29T00:27:44",
+            "content" : "Bug fixes",
+            "_id" : "5ddd8a094071f9288f338913c67a1c443f6061a9",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "content" : "Bug fixes",
+            "time" : "2014-10-29T17:28:54",
+            "title" : "",
+            "published" : "2014-10-29T17:28:54",
+            "comment" : "Bug fixes",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "4ddfda63403e69c3c35f8c7f6bef850533af8599",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "time" : "2014-10-31T00:27:41",
+            "content" : "Bug fixes",
+            "published" : "2014-10-31T00:27:41",
+            "title" : "",
+            "comment" : "Bug fixes",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "6c4c5cf311d966bc9e2772b7c8e087e6c5d2015c",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "published" : "2014-10-31T22:02:29",
+            "title" : "",
+            "comment" : "Messages search (not finished)",
+            "time" : "2014-10-31T22:02:29",
+            "content" : "Messages search (not finished)",
+            "_id" : "1add11177d01a38a86ffc8894d80ad6c30898c72",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "_id" : "ab0ae72560100407da9d27cde8c8dfa0718e3313",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "published" : "2014-11-07T00:34:47",
+            "title" : "",
+            "comment" : "Different improvements (not finished, not usable yet)",
+            "content" : "Different improvements (not finished, not usable yet)",
+            "time" : "2014-11-07T00:34:47"
+         }
+      },
+      {
+         "doc" : {
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "059035a54ca7d01a586a1ada6dc115b966ce8b11",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "time" : "2014-11-07T00:35:05",
+            "content" : "Missing images",
+            "title" : "",
+            "published" : "2014-11-07T00:35:05",
+            "comment" : "Missing images"
+         }
+      },
+      {
+         "doc" : {
+            "time" : "2014-11-07T13:23:17",
+            "content" : "Different improvements",
+            "published" : "2014-11-07T13:23:17",
+            "title" : "",
+            "comment" : "Different improvements",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "65e93f91bb503a275b8b2795237411eabc4c1a07",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "comment" : "More Android L design (still not usable)",
+            "published" : "2014-11-07T23:10:12",
+            "title" : "",
+            "content" : "More Android L design (still not usable)",
+            "time" : "2014-11-07T23:10:12",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "a4d42cb97bb4f5b92232f01dd6633a9c2f0eac39",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "content" : "More Android L design",
+            "time" : "2014-11-10T14:05:22",
+            "published" : "2014-11-10T14:05:22",
+            "title" : "",
+            "comment" : "More Android L design",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "41359b14793e87a00b4709374726d87a7d40623b",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "time" : "2014-11-12T01:16:17",
+            "content" : "More Android L design",
+            "published" : "2014-11-12T01:16:17",
+            "title" : "",
+            "comment" : "More Android L design",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "ca46b69b38785a34e917ab9b367bfa9f68b13613",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "time" : "2014-11-12T01:16:25",
+            "content" : "Missing images",
+            "comment" : "Missing images",
+            "published" : "2014-11-12T01:16:25",
+            "title" : "",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "1fd3985ef05f4aec089b980ef484ef35f8214334"
+         }
+      },
+      {
+         "doc" : {
+            "title" : "",
+            "published" : "2014-11-12T13:41:46",
+            "comment" : "More Android L design",
+            "time" : "2014-11-12T13:41:46",
+            "content" : "More Android L design",
+            "_id" : "4104a21f6dd2f0503d8434ac32e781dcdadeeebd",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "time" : "2014-11-13T01:16:59",
+            "content" : "More Android L design",
+            "comment" : "More Android L design",
+            "published" : "2014-11-13T01:16:59",
+            "title" : "",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "ea0b86d023787b8c5ba7809423cd39c2521366dd"
+         }
+      },
+      {
+         "doc" : {
+            "content" : "More Android L design",
+            "time" : "2014-11-13T23:10:14",
+            "comment" : "More Android L design",
+            "published" : "2014-11-13T23:10:14",
+            "title" : "",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "bfd8d13dcd694d143eb54e01d0ac0df85d6aad1f"
+         }
+      },
+      {
+         "doc" : {
+            "_id" : "5e51393b4bb3da302106fb42dcb260915742c0ab",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "published" : "2014-11-13T23:10:26",
+            "title" : "",
+            "comment" : "missing images",
+            "time" : "2014-11-13T23:10:26",
+            "content" : "missing images"
+         }
+      },
+      {
+         "doc" : {
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "934408c73f7447260b05cf5a1e754309c1dca85e",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "comment" : "More Android L design",
+            "title" : "",
+            "published" : "2014-11-14T18:40:15",
+            "content" : "More Android L design",
+            "time" : "2014-11-14T18:40:15"
+         }
+      },
+      {
+         "doc" : {
+            "_id" : "f76fa00e121511e2ae57ada6cfc37b3a7520fa57",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "published" : "2014-11-17T05:44:57",
+            "title" : "",
+            "comment" : "More Android L design",
+            "time" : "2014-11-17T05:44:57",
+            "content" : "More Android L design"
+         }
+      },
+      {
+         "doc" : {
+            "_id" : "01ae07c3aa9cec2b4b89e56746992752b0c625c7",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "published" : "2014-11-17T05:45:07",
+            "title" : "",
+            "comment" : "Missing images",
+            "content" : "Missing images",
+            "time" : "2014-11-17T05:45:07"
+         }
+      },
+      {
+         "doc" : {
+            "content" : "Update locale",
+            "time" : "2014-11-17T13:42:07",
+            "published" : "2014-11-17T13:42:07",
+            "title" : "",
+            "comment" : "Update locale",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "f7b14c1e2365f0452ce76152e06492f909bbe51d",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "ce33df07ad27f64ec578d7a0770e251f6fbffdfe",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "time" : "2014-11-18T01:04:31",
+            "content" : "More Android L design",
+            "published" : "2014-11-18T01:04:31",
+            "title" : "",
+            "comment" : "More Android L design"
+         }
+      },
+      {
+         "doc" : {
+            "_id" : "6866004af5d0371f131e16f11a477608bcad8b4b",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "published" : "2014-11-18T08:01:04",
+            "title" : "",
+            "comment" : "Material everywhere",
+            "content" : "Material everywhere",
+            "time" : "2014-11-18T08:01:04"
+         }
+      },
+      {
+         "doc" : {
+            "comment" : "Missing images",
+            "published" : "2014-11-18T08:01:12",
+            "title" : "",
+            "content" : "Missing images",
+            "time" : "2014-11-18T08:01:12",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "86dd93428e6071015eaa048d7c44079b669f38c9",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "a137f7a22ff238d9999bf2676d8d7fde0d0ad2df",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "comment" : "Bug fixes",
+            "title" : "",
+            "published" : "2014-11-18T15:37:11",
+            "content" : "Bug fixes",
+            "time" : "2014-11-18T15:37:11"
+         }
+      },
+      {
+         "doc" : {
+            "_id" : "77f239542883e3dbe428421e40f5211aa15a1efb",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "title" : "",
+            "published" : "2014-11-19T04:23:46",
+            "comment" : "Bug fixes",
+            "time" : "2014-11-19T04:23:46",
+            "content" : "Bug fixes"
+         }
+      },
+      {
+         "doc" : {
+            "published" : "2014-11-19T06:46:45",
+            "title" : "",
+            "comment" : "Bug fixes",
+            "time" : "2014-11-19T06:46:45",
+            "content" : "Bug fixes",
+            "_id" : "ea8760f9a2210e5eedf1019ed5b573afee661e7a",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "_id" : "ba4cf583b48d1848ad95c1a68315ab89384b3b80",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "title" : "",
+            "published" : "2014-11-19T13:32:27",
+            "comment" : "Bug fixes",
+            "time" : "2014-11-19T13:32:27",
+            "content" : "Bug fixes"
+         }
+      },
+      {
+         "doc" : {
+            "comment" : "Bug fixes",
+            "published" : "2014-11-19T18:17:24",
+            "title" : "",
+            "time" : "2014-11-19T18:17:24",
+            "content" : "Bug fixes",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "dd61bbaa7ae798aa927f15a8446dd8824de05952",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "time" : "2014-11-20T17:45:33",
+            "content" : "Bug fixes",
+            "title" : "",
+            "published" : "2014-11-20T17:45:33",
+            "comment" : "Bug fixes",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "a38e46cd8bde13b708ce073544b8092906a53e63",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "published" : "2014-11-21T03:14:44",
+            "title" : "",
+            "comment" : "Bug fixes",
+            "time" : "2014-11-21T03:14:44",
+            "content" : "Bug fixes",
+            "_id" : "baed4120bc03b05bad536a84e8f27c3e7869b8b9",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "published" : "2014-11-21T13:59:05",
+            "title" : "",
+            "comment" : "Bug fixes",
+            "content" : "Bug fixes",
+            "time" : "2014-11-21T13:59:05",
+            "_id" : "d69b5b3b36407f37e7723191e01e32c4bce52dbc",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "_id" : "fdaf4555c5d1551c9a6914a3a8279f84e7ed1ea8",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "title" : "",
+            "published" : "2014-11-21T22:36:21",
+            "comment" : "Bug fixes",
+            "time" : "2014-11-21T22:36:21",
+            "content" : "Bug fixes"
+         }
+      },
+      {
+         "doc" : {
+            "time" : "2014-11-24T17:14:40",
+            "content" : "Bug fixes",
+            "comment" : "Bug fixes",
+            "published" : "2014-11-24T17:14:40",
+            "title" : "",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "95de265e1a8f13bc691710818db54059e30fe0ce"
+         }
+      },
+      {
+         "doc" : {
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "8233e89daa2f80efb3db8f6ac62a3ccbe5689568",
+            "content" : "Perfect forward secrecy in secret chats, phone change, telegram.me links support",
+            "time" : "2014-12-01T09:56:31",
+            "comment" : "Perfect forward secrecy in secret chats, phone change, telegram.me links support",
+            "published" : "2014-12-01T09:56:31",
+            "title" : ""
+         }
+      },
+      {
+         "doc" : {
+            "_id" : "8c50d4d03bdda3839978e55ae1f0a2ca5492b0f6",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "published" : "2014-12-01T09:57:52",
+            "title" : "",
+            "comment" : "Merge branch 'dev'",
+            "content" : "Merge branch 'dev'",
+            "time" : "2014-12-01T09:57:52"
+         }
+      },
+      {
+         "doc" : {
+            "content" : "Bug fixes",
+            "time" : "2014-12-04T12:27:06",
+            "published" : "2014-12-04T12:27:06",
+            "title" : "",
+            "comment" : "Bug fixes",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "e5e31e20e46e437dc347e1eea74ec65fb71ddf5a",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "time" : "2015-01-03T01:15:07",
+            "content" : "Update to 2.3.0",
+            "published" : "2015-01-03T01:15:07",
+            "title" : "",
+            "comment" : "Update to 2.3.0",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "2073ead37e554bdca42215129978ce46d36c45c8",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "comment" : "Update BuildVars.java",
+            "published" : "2015-01-03T01:22:17",
+            "title" : "",
+            "content" : "Update BuildVars.java",
+            "time" : "2015-01-03T01:22:17",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "9c2ac64d14f45fe828fd0f3453e7021c51ca7f5e",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "comment" : "Crash fix",
+            "published" : "2015-01-03T06:21:11",
+            "title" : "",
+            "content" : "Crash fix",
+            "time" : "2015-01-03T06:21:11",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "4e03bc1a7530d55c892a7bdcae7845cca13666ee",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "published" : "2015-01-09T15:50:15",
+            "title" : "",
+            "comment" : "Update to 2.3.2",
+            "content" : "Update to 2.3.2",
+            "time" : "2015-01-09T15:50:15",
+            "_id" : "213c2269c09cefedb3729a26d0cbe95dfa2e756f",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "2fcef37b9ed73d1bee19eef8b06d73ddd7903274",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "comment" : "Bug fixes",
+            "published" : "2015-01-24T00:59:15",
+            "title" : "",
+            "time" : "2015-01-24T00:59:15",
+            "content" : "Bug fixes"
+         }
+      },
+      {
+         "doc" : {
+            "title" : "",
+            "published" : "2015-02-01T21:51:02",
+            "comment" : "Update to 2.4.0",
+            "content" : "Update to 2.4.0",
+            "time" : "2015-02-01T21:51:02",
+            "_id" : "dff666fca14f4abb7726bf1c5f32cd672eac39ea",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>"
+         }
+      },
+      {
+         "doc" : {
+            "commiter" : "DrKLO <drklo.2kb@gmail.com>",
+            "author" : "DrKLO <drklo.2kb@gmail.com>",
+            "_id" : "2f874619264ac65213baf2300a3e53fdf34aec09",
+            "owner" : "DrKLO <drklo.2kb@gmail.com>",
+            "content" : "Merge branch 'dev'",
+            "time" : "2015-02-19T14:26:59",
+            "published" : "2015-02-19T14:26:59",
+            "title" : "",
+            "comment" : "Merge branch 'dev'"
+         }
+      }
+   ]
+}

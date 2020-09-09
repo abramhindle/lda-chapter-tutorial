@@ -1,0 +1,15 @@
+LDA Tutorial
+
+Topic analysis has become a hot topics in software engineering
+research, especially mining software repositories research. It is
+popular because often researchers have to sift through numerous
+documents and try to make sense of 1000s of bug reports, commits, or
+source files.
+
+In this LDA Tutorial participants will get hands-on experience with
+LDA and get some valuable LDA tools. We will go through the steps of
+collecting and extracting documents, cleaning them up for processing
+by an LDA tool, producing topics and then evaluating topics.
+
+
+Audience members should preinstall virtualbox and vagrant.
