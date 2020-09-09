@@ -1,8 +1,8 @@
-GitHub Issue Tracker LDA Summarizer
+# GitHub Issue Tracker LDA Summarizer
 
-./Gensim-LDA-Tutorial.ipynb
+https://github.com/abramhindle/lda-chapter-tutorial/blob/main/Gensim-LDA-Tutorial.ipynb
 
-=== Use ===
+# Use
 
 `jupyter lab ./Gensim-LDA-Tutorial.ipynb`
 
@@ -10,7 +10,9 @@ Original instructions:
 
 To mirror the repo run:
 
-bash gh.sh USERNAME / REPO 
+```
+bash gh.sh USERNAME / REPO
+```
 
 after editing config.json to look something like
 
@@ -24,9 +26,11 @@ an out directory will be made, a Everything.svg generated in the base dir.
 
 To use existing data:
 
+```
 python lda_from_json.py --file data/boostrap/large.json --passes 10 --alpha 0.01 --beta 0.01 --topics 20
+```
 
-=== Deps ===
+# Deps
 
 For the current Gensim version you need these:
 
@@ -65,7 +69,7 @@ in R you can optionally install:
    install.packages("doMC")
    install.packages("foreach")
 
-=== Files ===
+# Files
 
 - Gensim-LDA-Tutorial.ipynb - gensim version of the notebook
 - bug-tracker-to-json.pl - convert an issues.xml to an appropriate format
@@ -76,7 +80,7 @@ in R you can optionally install:
 - plotter.R - R to make plots and run the study
 - project.sh - how to extract a project in the data directory
 
-=== LICENSE ===
+# Files
 
 In general:
 
@@ -86,6 +90,7 @@ All code here is licensed under the Apache 2.0 unless otherwise specified.
 
 Furthermore if you are an academic. Cite our work! 
 
+```
 @inproceedings{hindle2012rri,
 	Author = {Abram Hindle and Christian Bird and Thomas Zimmermann and Nachiappan Nagappan},
 	Title = {Relating Requirements to Implementation via Topic Analysis: Do Topics Extracted from Requirements Make Sense to Managers and Developers?},
@@ -93,7 +98,8 @@ Furthermore if you are an academic. Cite our work!
 	Year = {2012},
 	Publisher = {IEEE}
 }
+```
 
-=== Wait how many languages? ===
+# Wait how many languages?
 
 Uh python, ruby, perl, bash and R?
